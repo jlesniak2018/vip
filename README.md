@@ -1,10 +1,10 @@
 # VIP Big Data and Learning Analytics
 
-### Evaluating MOOCDB - [Main Docs](http://moocdbdocs.readthedocs.org/en/latest/)
+### Evaluating MOOCDB for Coursera Data - [Main Docs](http://moocdbdocs.readthedocs.org/en/latest/)
 
-#### Coursera Data Evaluation
+#### Evaluation Notes
 * The Piping scripts provided combines the data - [Anonymized Forum, Anonymized General, Hash Mapping] provided by coursera for a particula course into a Target database of our choosing.
-* asdad
+* 
 
 #### Database Schema Visualized 
 - Moocdb Core and Schema (Moocdb Clean) : is used by all transformation tasks; Import once and use many times [1, 2]. 
@@ -17,6 +17,7 @@
 #### References
 1. [Developing Standards and Systems for MOOC Data Science](http://arxiv.org/pdf/1406.2015.pdf)
 2. [Case Study on edX Circuits and Electronics](http://groups.csail.mit.edu/EVO-DesignOpt/groupWebSite/uploads/Site/MoocshopCamera.pdf)
-
+3. [Moodb Presentation](http://www.slideshare.net/srecko/moo-cdb)
+4. [MoocDB, DiscourseDB, DataShop](http://cra.org/wp-content/uploads/2015/08/koedinger.pdf)
 
 
