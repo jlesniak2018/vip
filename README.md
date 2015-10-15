@@ -4,6 +4,7 @@
 
 #### Evaluation Notes
 * The Piping scripts provided combines the data - [Anonymized Forum, Anonymized General, Hash Mapping] provided by coursera for a particula course into a Target database of our choosing.
+* The Scripts successfully map the users and session id across the hash_mapp - No Loss of Users
 
 #### TODO
 - [ ] Why do we need moocdb_core and moocdb_clean?
