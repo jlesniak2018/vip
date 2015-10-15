@@ -7,7 +7,9 @@
 * asdad
 
 #### Database Schema Visualized 
-
+- [moocdb_clean](https://github.com/4ni1/vip/blob/master/schema/moocdb_clean.pdf)
+- [moocdb_core](https://github.com/4ni1/vip/blob/master/schema/moocdb_core.pdf)
+- [moocdb_output](https://github.com/4ni1/vip/blob/master/schema/moocdb_output.pdf)
 
 #### References
 1. [Developing Standards and Systems for MOOC Data Science](http://arxiv.org/pdf/1406.2015.pdf)
