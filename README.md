@@ -17,7 +17,10 @@
 #### References
 1. [Developing Standards and Systems for MOOC Data Science](http://arxiv.org/pdf/1406.2015.pdf)
 2. [Case Study on edX Circuits and Electronics](http://groups.csail.mit.edu/EVO-DesignOpt/groupWebSite/uploads/Site/MoocshopCamera.pdf)
-3. [Moodb Presentation](http://www.slideshare.net/srecko/moo-cdb)
-4. [MoocDB, DiscourseDB, DataShop](http://cra.org/wp-content/uploads/2015/08/koedinger.pdf)
+3. [Mooc VIZ: Large Scale Open Access Collaborative Data Analytics Platform for MOOCs.](http://francky.me/doc/NIPS2013_education-workshop_MoocViz.pdf)
+4. [Mooc Images](http://francky.me/doc/MOOCEnImages2013.pdf)
+5. [Moodb Presentation](http://www.slideshare.net/srecko/moo-cdb)
+6. [MoocDB, DiscourseDB, DataShop](http://cra.org/wp-content/uploads/2015/08/koedinger.pdf)
+
 
 
