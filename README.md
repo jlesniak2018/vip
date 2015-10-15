@@ -10,7 +10,6 @@
   * Eg : A question id found in a student response does not exist in the quiz XML! Question ID in student response: 49ec22c8a5bcc3e5be33545a76d30b2a, Question IDs from XML
   * Eg : Unexpected answer format for question prime_question
   * Eg : Failed to load php-serialized string:... Skipping this record
-  * 
 
 #### Database Schema Visualized 
 - Moocdb Core and Schema (Moocdb Clean) : is used by all transformation tasks; Import once and use many times[i, ii]. 
