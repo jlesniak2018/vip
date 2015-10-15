@@ -7,8 +7,8 @@
 * 
 
 #### Database Schema Visualized 
-- Moocdb Core and Schema (Moocdb Clean) : is used by all transformation tasks; Import once and use many times [1, 2]. 
-- Target (Moocdb Output) : Data after transformations are put into this database for future analysis [3].
+- Moocdb Core and Schema (Moocdb Clean) : is used by all transformation tasks; Import once and use many times[i, ii]. 
+- Target (Moocdb Output) : Data after transformations are put into this database for future analysis [iii].
 
   1. [moocdb_clean](https://github.com/4ni1/vip/blob/master/schema/moocdb_clean.pdf)
   2. [moocdb_core](https://github.com/4ni1/vip/blob/master/schema/moocdb_core.pdf)
