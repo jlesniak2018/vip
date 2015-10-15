@@ -29,6 +29,7 @@
 4. [Mooc Images](http://francky.me/doc/MOOCEnImages2013.pdf)
 5. [Moodb Presentation](http://www.slideshare.net/srecko/moo-cdb)
 6. [MoocDB, DiscourseDB, DataShop](http://cra.org/wp-content/uploads/2015/08/koedinger.pdf)
+7. [Mooc Scripts from Univ. of Michigan](https://bitbucket.org/umuselab/mooc-scripts/)
 
 
 
