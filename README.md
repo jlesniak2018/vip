@@ -1,5 +1,5 @@
-# vip
+# VIP Big Data and Learning Analytics
 Progress Report
 
-## MOOCDB Testing
+### Evaluating MOOCDB
 * 
